@@ -1,0 +1,18 @@
+{
+  "server":{
+    "status":true,
+    "url":"",
+  },
+  "banner":[{
+    "name":"single",
+    "value":["█▀ █▀▄▀█ █░█ █▀█ █▀▀","▄█ █░▀░█ █▄█ █▀▄ █▀░"]
+    }],
+  "share":{
+    "creator":"@smurfcoder",
+    "channel":"https://youtube.com/channel/UCVZoyHboGRJ0seXd_1FX6VQ",
+    "telegram":"https://t.me/smurfchannel",
+  },
+  "scripts":{
+    
+  }
+}
