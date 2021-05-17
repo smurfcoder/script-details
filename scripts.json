@@ -1,6 +1,6 @@
 {
   "server":{
-    "status":true,
+    "status":"true",
     "url":""
   },
   "banner":[{
