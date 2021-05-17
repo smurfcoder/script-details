@@ -1,7 +1,7 @@
 {
   "server":{
     "status":true,
-    "url":"",
+    "url":""
   },
   "banner":[{
     "name":"single",
@@ -10,7 +10,7 @@
   "share":{
     "creator":"@smurfcoder",
     "channel":"https://youtube.com/channel/UCVZoyHboGRJ0seXd_1FX6VQ",
-    "telegram":"https://t.me/smurfchannel",
+    "telegram":"https://t.me/smurfchannel"
   },
   "scripts":{
     
