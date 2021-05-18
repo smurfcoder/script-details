@@ -17,11 +17,9 @@
   "scripts":{
     "tester":{
       "status":true
-     // "":""
     },
     "gsm_money":{
       "status":true
-     // "":""
     }
   }
 }
