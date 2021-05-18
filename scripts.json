@@ -1,12 +1,9 @@
 {
   "server":{
     "status":true,
-<<<<<<< HEAD
     "url":"",
     "paste_url":"https://smurfkey.netlify.app/?key="
-=======
     "url":""
->>>>>>> 1b9f8ac30e377734be5769ecc1d95f25506011c6
   },
   "banner":[{
     "name":"single",
@@ -19,6 +16,10 @@
   },
   "scripts":{
     "tester":{
+      "status":true,
+     // "":""
+    },
+    "gsm_money":{
       "status":true,
      // "":""
     }
