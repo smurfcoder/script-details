@@ -2,6 +2,7 @@
   "server":{
     "status":true,
     "url":"",
+    "paste_url":"https://smurfkey.netlify.app/?key="
   },
   "banner":[{
     "name":"single",
@@ -13,6 +14,9 @@
     "telegram":"https://t.me/smurfchannel",
   },
   "scripts":{
-    
+    "tester":{
+      "status":true,
+     // "":""
+    }
   }
 }
