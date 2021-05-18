@@ -2,7 +2,7 @@
   "server":{
     "status":true,
     "url":"",
-    "paste_url":"https://smurfkey.netlify.app/?key="
+    "paste_url":"https://smurfkey.netlify.app/?key=",
     "url":""
   },
   "banner":[{
@@ -16,11 +16,11 @@
   },
   "scripts":{
     "tester":{
-      "status":true,
+      "status":true
      // "":""
     },
     "gsm_money":{
-      "status":true,
+      "status":true
      // "":""
     }
   }
